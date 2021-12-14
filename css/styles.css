@@ -1,0 +1,44 @@
+
+img {
+  max-width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: rgb(224, 222, 222);
+}
+
+#img-div {
+  background-color: white;
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(51, 49, 49);
+  text-align: center;
+}
+
+h4 {
+  color: rgb(56, 56, 55);
+}
+
+#tribute-info {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#titles {
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}

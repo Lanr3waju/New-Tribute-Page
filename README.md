@@ -69,9 +69,7 @@ npm run html-validator
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@Lanr3waju](https://github.com/Lanr3waju)
 
 ## 🤝 Contributing
 
@@ -85,9 +83,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+-I commend freeCodeCamp for the responsive web design test, made public to improve up and coming developers
 
 ## 📝 License
 

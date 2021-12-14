@@ -2,7 +2,7 @@
 
 > This is my first freecodecamp project on responsive design
 
-![screenshot](./img/arch.jpg)
+![screenshot](./img/preview.png)
 
 This is a webpage on the biography of Dr. Norman Borlaug, his lifetime and achievements.
 
